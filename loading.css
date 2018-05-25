@@ -15,4 +15,16 @@ body {
 .text {
 	display: block;
 	margin-top: 20px;
+	font-size: 16px;
+}
+
+.qordoba-logo-container {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.qordoba-logo {
+	width: 30px;
+	height: 30px;
 }
